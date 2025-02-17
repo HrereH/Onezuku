@@ -4,3 +4,5 @@ Onezuku，为一加定制魔改的Shizuku。
 原Shizuku官网:https://shizuku.rikka.app/zh-hans/
 <br />
 请大家不要认为魔改版就是格机的，魔改版只是在启动Shizuku的基础上增加一些优化，
+<br />
+隔壁为iQOO定制的魔改版本ZeroPosed也是启动时优化设备的版本，那么多人用那我请问谁用ZeroPosed被格机了？
